@@ -71,8 +71,7 @@ To reproduce the notebooks and scripts:
 **Aitor Andreu**
 
 I am a specialist in Geographic Information Systems (GIS) and remote sensing, with experience in using advanced tools to solve geospatial problems. My goal is to apply these skills to address global environmental and territorial challenges.
-
-- [LinkedIn](www.linkedin.com/in/aitorandreuirazola)
+- [LinkedIn](https://linkedin.com/in/aitorandreuirazola)
 - [Email](mailto:aitorandreu1997@gmail.com)
 
 ---
