@@ -1,6 +1,6 @@
 # Geospatial Analysis Portfolio
 
-This portfolio showcases a collection of notebooks and scripts designed to perform **advanced geospatial analysis** using both vector and raster layers. The included projects demonstrate the use of key tools and techniques to process, analyze, and generate valuable geospatial products for various professional contexts.
+This portfolio showcases a collection of notebooks and scripts designed to perform **geospatial analysis** using both vector and raster layers. The included projects demonstrate the use of key tools and techniques to process, analyze, and generate valuable geospatial products for various professional contexts.
 
 ## Objective
 The primary goal of this portfolio is to highlight my skills in processing and analyzing geospatial data, focusing on **workflow automation** and the **creation of high-value derived products** for the geospatial sector.
